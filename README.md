@@ -144,7 +144,7 @@ Built using C++, Wifalyzer aims to support multiple platforms including Windows,
 ### Build Instructions
 
 ```bash
-git clone https://github.com/yourusername/Wifalyzer.git
+git clone https://github.com/Asad-Channar/Wifalyzer.git
 
 cd Wifalyzer
 
